@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&family=Nunito+Sans:ital,opsz,wght@1,6..12,200&display=swap');
+
+.main-block {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+    width: 40vw;
+    height: 90vh;
+}
+.main-text {
+    display: flex;
+}
+.block-content {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.img {
+    padding-top: 20px;
+    width: 80%;
+    height: 80%;
+}
+.header-content {
+    display: flex;
+    justify-content: center;
+   
+}
+.header-content-second {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.img1 {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+.text {
+    height: 150px;
+}
